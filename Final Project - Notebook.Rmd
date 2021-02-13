@@ -1,0 +1,22 @@
+---
+title: "Hannah and The Dinosaurs - Final Project"
+output:
+  html_document:
+    df_print: paged
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*.
+
+```{r}
+plot(cars)
+```
+
+Business Problem:
+
+Paack (<https://paack.co/>), a last-mile delivery service provider in Europe, is currently creating the delivery journeys for their drivers by manually grouping the daily orders they receive.
+
+llllBusiness Solution Process:
+
+Data Dictionary:
